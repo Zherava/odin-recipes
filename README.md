@@ -1,6 +1,6 @@
 # odin-recipes
 
-[See this website!](https://zherava.github.io/odin-recipes/)\\
+[See this website!](https://zherava.github.io/odin-recipes/)\
 
 This is a beginning project to demonstrate my understanding of basic HTML. \
 I have used created base boilerplates for each page and supplied each one with content including headers, images, emphasized and bolded text, as well as ordered and unordered lists. I have also included links to each page using anchors and hyperlink references, and kept my files organized in the main repository. \
